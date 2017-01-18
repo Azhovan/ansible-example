@@ -1,0 +1,8 @@
+[webserver]
+192.168.56.10
+
+[all:vars]
+ansible_connection=ssh
+ansible_ssh_user=menes
+ansible_ssh_pass=12345
+ansible_sudo_pass=12345

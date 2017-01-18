@@ -1,0 +1,6 @@
+---
+present_packages:
+  - nginx
+  - php5-fpm
+
+php_memory_limit: 16M

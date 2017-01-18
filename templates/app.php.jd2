@@ -1,0 +1,5 @@
+<center>
+<h1>Ansible Example</h1>
+<a href="memory_leak.php">Click Here to test Memory Leak</a>
+</center>
+<?php phpinfo(); ?>
